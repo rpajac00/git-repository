@@ -6,4 +6,6 @@ cuatro
 cinco
 seis
 siete
+nueve
+10
 
